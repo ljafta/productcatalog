@@ -1,35 +1,33 @@
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\appsettings.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.staticwebassets.endpoints.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.exe
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.deps.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.runtimeconfig.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.dll
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.pdb
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.csproj.AssemblyReference.cache
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.AssemblyInfoInputs.cache
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.AssemblyInfo.cs
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.csproj.CoreCompileInputs.cache
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\scopedcss\bundle\ProductCatalog.Api.styles.css
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductC.870BC1D1.Up2Date
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.dll
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\refint\ProductCatalog.Api.dll
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.pdb
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.genruntimeconfig.cache
-C:\Users\jaftal\source\TestEqual\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\ProductCatalog.Api\obj\Debug\net8.0\ref\ProductCatalog.Api.dll
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.exe
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.csproj.AssemblyReference.cache
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.AssemblyInfoInputs.cache
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.AssemblyInfo.cs
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.sourcelink.json
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.ProductCatalog.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductCatalog.Api.props
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductCatalog.Api.props
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductCatalog.Api.props
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\scopedcss\bundle\ProductCatalog.Api.styles.css
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductC.870BC1D1.Up2Date
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.dll
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\refint\ProductCatalog.Api.dll
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.pdb
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.deps.json
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.runtimeconfig.json
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.dll
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\bin\Debug\net8.0\ProductCatalog.Api.pdb
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ProductCatalog.Api.genruntimeconfig.cache
+C:\Users\Lumkile Jafta\source\LexisAssesment\productcatalog\ProductCatalog.Api\obj\Debug\net8.0\ref\ProductCatalog.Api.dll

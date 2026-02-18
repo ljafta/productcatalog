@@ -447,23 +447,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jaftal\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Lumkile Jafta\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaftal\\source\\TestEqual\\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\\ProductCatalog.Api\\ProductCatalog.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Lumkile Jafta\\source\\LexisAssesment\\productcatalog\\ProductCatalog.Api\\ProductCatalog.Api.csproj",
       "projectName": "ProductCatalog.Api",
-      "projectPath": "C:\\Users\\jaftal\\source\\TestEqual\\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\\ProductCatalog.Api\\ProductCatalog.Api.csproj",
-      "packagesPath": "C:\\Users\\jaftal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaftal\\source\\TestEqual\\equal-experts-regal-surprising-ethical-heaven-4fe35e1a6048\\ProductCatalog.Api\\obj\\",
+      "projectPath": "C:\\Users\\Lumkile Jafta\\source\\LexisAssesment\\productcatalog\\ProductCatalog.Api\\ProductCatalog.Api.csproj",
+      "packagesPath": "C:\\Users\\Lumkile Jafta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lumkile Jafta\\source\\LexisAssesment\\productcatalog\\ProductCatalog.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jaftal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lumkile Jafta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -472,7 +474,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -490,8 +491,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -521,7 +521,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.309/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

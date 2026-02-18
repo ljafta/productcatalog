@@ -43,8 +43,9 @@ This repository contains a full-stack Product Catalog Management System built wi
 
 ```bash
 cd backend/ProductCatalog.Api
-dotnet restore
-dotnet run
+
+Visual Studio (Play ▶) → IIS Express
+Backend  is coming from IIS Express, not Kestrel.
 
 Backend will be available at:
 https://localhost:44329
