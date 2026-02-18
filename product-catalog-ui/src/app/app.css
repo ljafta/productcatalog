@@ -1,0 +1,23 @@
+.app-header {
+  background: #1e293b;
+  padding: 12px 20px;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav a.active {
+  text-decoration: underline;
+}
+
+.container {
+  padding: 24px;
+}

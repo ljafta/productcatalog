@@ -1,0 +1,127 @@
+<div class="p-4">
+
+  <!-- Page title -->
+  <h1 class="text-2xl font-semibold mb-4">Products</h1>
+
+  <!-- No categories warning -->
+  <div
+    *ngIf="!hasCategories"
+    class="mb-6 p-4 border border-yellow-300 bg-yellow-50 rounded"
+  >
+    <p class="font-medium mb-2">
+      You don’t have any categories yet.
+    </p>
+
+    <a
+      routerLink="/categories/add"
+      class="text-blue-600 underline font-medium"
+    >
+      Create your first category →
+    </a>
+  </div>
+
+  <!-- Filters + Actions -->
+  <div class="flex justify-between items-center mb-4">
+    <!-- Filters -->
+    <div class="flex gap-3">
+      <input
+        type="text"
+        placeholder="Search name"
+        [(ngModel)]="search"
+        (ngModelChange)="onFilterChange()"
+        class="border px-3 py-1 rounded w-48"
+      />
+
+      <select
+        [(ngModel)]="categoryId"
+        (change)="onFilterChange()"
+        class="border px-3 py-1 rounded"
+      >
+        <option [ngValue]="null">All categories</option>
+        <option *ngFor="let c of categories" [value]="c.id">
+          {{ c.name }}
+        </option>
+      </select>
+    </div>
+
+    <!-- Actions -->
+    <div class="flex gap-2">
+      <button
+        routerLink="/products/add"
+        [disabled]="!hasCategories"
+        class="bg-blue-600 text-white px-4 py-1 rounded
+               hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed"
+      >
+        Add Product
+      </button>
+
+      <button
+        routerLink="/categories"
+        class="bg-gray-600 text-white px-4 py-1 rounded hover:bg-gray-700"
+      >
+        Manage Categories
+      </button>
+    </div>
+  </div>
+
+  <table class="product-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>SKU</th>
+      <th class="right">Price</th>
+      <th class="right">Qty</th>
+      <th class="center">Actions</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let p of products">
+      <td>{{ p.name }}</td>
+      <td>{{ p.sku }}</td>
+      <td class="right">{{ p.price | currency }}</td>
+      <td class="right">{{ p.quantity }}</td>
+
+      <td class="center">
+        <div class="actions">
+       <button
+          type="button"
+          class="btn edit bg-yellow-500 text-white px-2 py-1 rounded hover:bg-yellow-600"
+          [routerLink]="['/products/edit', p.id]"
+        >
+          Edit
+        </button>
+
+          <button
+            class="btn delete"
+            (click)="delete(p.id)"
+          >
+            Delete
+          </button>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+  <!-- Pagination -->
+  <div class="flex justify-between mt-4">
+    <button
+      (click)="prev()"
+      [disabled]="page <= 1"
+      class="px-2 py-1 border rounded disabled:opacity-50"
+    >
+      Prev
+    </button>
+
+    <span>Page {{ page }} of {{ totalPages }}</span>
+
+    <button
+      (click)="next()"
+      [disabled]="page * pageSize >= total"
+      class="px-2 py-1 border rounded disabled:opacity-50"
+    >
+      Next
+    </button>
+  </div>
+
+</div>

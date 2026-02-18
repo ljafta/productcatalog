@@ -1,0 +1,27 @@
+<div class="flex justify-between items-center mb-4">
+  <h2 class="text-xl font-semibold">Categories</h2>
+
+  <button routerLink="/categories/add"
+          class="bg-blue-500 text-white px-4 py-1 rounded">
+    Add Category
+  </button>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Parent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let c of categories">
+      <td>{{ c.name }}</td>
+      <td>{{ c.description }}</td>
+      <td>{{ c.parentCategoryId || 'Root' }}</td>
+    </tr>
+  </tbody>
+</table>
+
+
